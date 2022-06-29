@@ -113,11 +113,17 @@ TODO
 
 ... a.k.a. reference management software
 
+An exhaustive list can be found here:
+
+- [Wikipedia - Comparison of reference management software](https://en.wikipedia.org/wiki/Comparison_of_reference_management_software)
+
+However, these seem to be the most used ones:
+
 - ![Open-Source Software][OSS Icon] [BibDesk](https://bibdesk.sourceforge.io) - Mac bibliography manager
 - ![Open-Source Software][OSS Icon] [KBibTeX](https://apps.kde.org/kbibtex/) [![GitHub stars](https://img.shields.io/github/stars/KDE/kbibtex.svg?style=social&label=Star&maxAge=2592000)](https://github.com/KDE/kbibtex) - Reference management application which can be used to collect TeX/LaTeX bibliographies
 - ![Open-Source Software][OSS Icon] [JabRef](https://www.jabref.org) [![GitHub stars](https://img.shields.io/github/stars/JabRef/jabref.svg?style=social&label=Star&maxAge=2592000)](https://github.com/JabRef/jabref) - An open-source, cross-platform citation and reference management tool
+- [Mendeley](https://www.mendeley.com) - A free reference manager that can help you store, organize, note, share and cite references and research data
 - ![Open-Source Software][OSS Icon] [Zotero](https://www.zotero.org) [![GitHub stars](https://img.shields.io/github/stars/zotero/zotero.svg?style=social&label=Star&maxAge=2592000)](https://github.com/zotero/zotero) - Free, easy-to-use tool to help you collect, organize, cite, and share your research sources
-- ToDo Add mendeley
 
 ## Tools for creating figures
 
@@ -193,8 +199,18 @@ TODO
 
 ## Publication databases
 
+An exhaustive list can be found here:
+
 - [Wikipedia - List of academic databases and search engines](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines)
-- [Papers with code](https://paperswithcode.com)
+
+However, I find most useful:
+
+- [Connected Papers](https://www.connectedpapers.com) - Explore connected papers in a visual graph
+- [Google Scholar](https://scholar.google.com) - The biggest academic database & search engine
+- [Papers with code](https://paperswithcode.com) - Free and open resource with machine learning papers, code, datasets, methods and evaluation tables
+- [ResearchGate](https://www.researchgate.net) - Commercial social networking site for scientists and researchers
+- [Semantic Scholar](https://www.semanticscholar.org) - Mostly computer science and biomedical publications
+
 
 ## Other
 
