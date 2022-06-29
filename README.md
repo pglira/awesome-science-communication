@@ -26,7 +26,7 @@ Feel free to **contribute** / **star** / **fork** / **pull request** . Any **rec
   - [Tools for taking notes](#tools-for-taking-notes)
   - [Other useful tools](#other-useful-tools)
   - [Journals](#journals)
-  - [Conferences](#conferences)
+  - [Find conferences to attend](#find-conferences-to-attend)
   - [Publication databases](#publication-databases)
   - [Other](#other)
   - [Fun](#fun)
@@ -191,11 +191,11 @@ However, these seem to be the most used ones:
 
 ## Journals
 
-TODO
+- [Metrics on Google Scholar](https://scholar.google.com/citations?view_op=metrics_intro&hl=en) - Top cited publications over the last five years
 
-## Conferences
+## Find conferences to attend
 
-TODO
+- [WikiCFP](http://www.wikicfp.com/cfp/) - A semantic wiki for Calls For Papers in science and technology fields
 
 ## Publication databases
 
@@ -214,9 +214,7 @@ However, I find most useful:
 
 ## Other
 
-TODO
-
-<!-- - Orcid ID -->
+- [Orcid](https://orcid.org) - Get you own open researcher and contributor ID (ORCID)
 
 ## Fun
 
