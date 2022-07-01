@@ -40,7 +40,7 @@ TODO
 
 ## Advices for writing scientic publications
 
-TODO
+- [McDaniel - Related Work](https://www.cse.psu.edu/~pdm12/cse544/slides/cse544-relwork.pdf) - A few slides from Prof. McDaniel with advices on how to describe related works
 
 ### Collections of useful phrases
 
@@ -53,7 +53,6 @@ TODO
 ### Papers
 
 - [How to write a research journal article in engineering and science](https://mhiet.edu.eg/academic-files/English/1001.pdf) by Socolofsky (2004)
-
 - [Ten Simple Rules for a Successful Collaboration](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030044) by Vicens and Bourne (2007)
 
 ### Books
