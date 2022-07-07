@@ -187,6 +187,8 @@ However, these seem to be the most used ones:
 - Desktop applications:
   - ![Open-Source Software][OSS Icon] [LibreOffice Math](https://www.libreoffice.org/discover/Math) [![GitHub stars](https://img.shields.io/github/stars/LibreOffice/core.svg?style=social&label=Star&maxAge=2592000)](https://github.com/LibreOffice/core) - An application designed for creating and editing mathematical formulae
   - ![Open-Source Software][OSS Icon] [pandoc](https://pandoc.org) [![GitHub stars](https://img.shields.io/github/stars/jgm/pandoc.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jgm/pandoc) - A universal document converter
+  - ![Open-Source Software][OSS Icon] [sioyek](https://github.com/ahrm/sioyek) [![GitHub stars](https://img.shields.io/github/stars/ahrm/sioyek.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ahrm/sioyek) - A PDF viewer designed for reading research papers and technical books.
+
 
 ## Journals
 
