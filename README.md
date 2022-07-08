@@ -206,12 +206,12 @@ An exhaustive list can be found here:
 
 However, I find most useful:
 
+- [arXiv](https://arxiv.org) - A free distribution service and an open-access archive
 - [Connected Papers](https://www.connectedpapers.com) - Explore connected papers in a visual graph
 - [Google Scholar](https://scholar.google.com) - The biggest academic database & search engine
 - [Papers with code](https://paperswithcode.com) - Free and open resource with machine learning papers, code, datasets, methods and evaluation tables
 - [ResearchGate](https://www.researchgate.net) - Commercial social networking site for scientists and researchers
 - [Semantic Scholar](https://www.semanticscholar.org) - Mostly computer science and biomedical publications
-- [arXiv](https://arxiv.org) - A free distribution service and an open-access archive
 
 ## Other
 
