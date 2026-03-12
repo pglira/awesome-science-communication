@@ -119,6 +119,7 @@ An exhaustive list can be found here:
 However, these seem to be the most used ones:
 
 - ![Open-Source Software][OSS Icon] [BibDesk](https://bibdesk.sourceforge.io) - Mac bibliography manager
+- ![Commercial Software][Money Icon] [CiteMe](https://citeme.app) - AI-powered academic citation generator. Searches 250M+ papers across 11 databases (OpenAlex, PubMed, Semantic Scholar, etc.) and formats in 40+ citation styles (APA, MLA, Chicago, Harvard, ABNT). Free browser extension + web app.
 - ![Open-Source Software][OSS Icon] [KBibTeX](https://apps.kde.org/kbibtex/) [![GitHub stars](https://img.shields.io/github/stars/KDE/kbibtex.svg?style=social&label=Star&maxAge=2592000)](https://github.com/KDE/kbibtex) - Reference management application which can be used to collect TeX/LaTeX bibliographies
 - ![Open-Source Software][OSS Icon] [JabRef](https://www.jabref.org) [![GitHub stars](https://img.shields.io/github/stars/JabRef/jabref.svg?style=social&label=Star&maxAge=2592000)](https://github.com/JabRef/jabref) - An open-source, cross-platform citation and reference management tool
 - [Mendeley](https://www.mendeley.com) - A free reference manager that can help you store, organize, note, share and cite references and research data
