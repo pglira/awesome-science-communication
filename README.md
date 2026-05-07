@@ -12,12 +12,6 @@ Feel free to **contribute** / **star** / **fork** / **pull request** . Any **rec
 
 - [Table of Contents](#table-of-contents)
   - [Scope](#scope)
-  - [Advices for writing scientic publications](#advices-for-writing-scientic-publications)
-    - [Collections of useful phrases](#collections-of-useful-phrases)
-    - [Websites](#websites)
-    - [Papers](#papers)
-    - [Books](#books)
-    - [Videos](#videos)
   - [Tools for creating slides](#tools-for-creating-slides)
   - [Tools for presenting slides](#tools-for-presenting-slides)
   - [Tools for writing papers](#tools-for-writing-papers)
@@ -35,31 +29,6 @@ Feel free to **contribute** / **star** / **fork** / **pull request** . Any **rec
   - [Acknowledgments](#acknowledgments)
 
 ## Scope
-
-TODO
-
-## Advices for writing scientic publications
-
-- [McDaniel - Related Work](https://www.cse.psu.edu/~pdm12/cse544/slides/cse544-relwork.pdf) - A few slides from Prof. McDaniel with advices on how to describe related works
-
-### Collections of useful phrases
-
-TODO
-
-### Websites
-
-TODO
-
-### Papers
-
-- [How to write a research journal article in engineering and science](https://mhiet.edu.eg/academic-files/English/1001.pdf) by Socolofsky (2004)
-- [Ten Simple Rules for a Successful Collaboration](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030044) by Vicens and Bourne (2007)
-
-### Books
-
-- [Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded](https://www.amazon.com/Writing-Science-Papers-Proposals-Funded/dp/0199760241/ref=sr_1_1?s=books&ie=UTF8&qid=1314843099&sr=1-1) by Schimel (2012)
-
-### Videos
 
 TODO
 
