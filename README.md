@@ -1,7 +1,5 @@
 <!-- ![Awesome Science Communication](./img/logo.svg) -->
 
-    Note: This is work in progress
-
 This repo is a collection of AWESOME projects, applications, tools, resources for science communication in general. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Commercial Software][Money Icon] are nonfree and may cost money to use.
@@ -12,17 +10,20 @@ Feel free to **contribute** / **star** / **fork** / **pull request** . Any **rec
 
 - [Table of Contents](#table-of-contents)
   - [Scope](#scope)
+  - [AI writing assistants](#ai-writing-assistants)
   - [Tools for creating slides](#tools-for-creating-slides)
   - [Tools for presenting slides](#tools-for-presenting-slides)
   - [Tools for writing papers](#tools-for-writing-papers)
   - [Tools for managing your bibliography](#tools-for-managing-your-bibliography)
   - [Tools for creating figures](#tools-for-creating-figures)
+  - [Tools for creating posters](#tools-for-creating-posters)
+  - [Tools for creating videos and animations](#tools-for-creating-videos-and-animations)
   - [Tools for taking notes](#tools-for-taking-notes)
+  - [Tools for podcasting and audio](#tools-for-podcasting-and-audio)
   - [Other useful tools](#other-useful-tools)
-  - [Journals](#journals)
   - [Find conferences to attend](#find-conferences-to-attend)
-  - [Publication databases](#publication-databases)
-  - [Other](#other)
+  - [Publication databases and preprint servers](#publication-databases-and-preprint-servers)
+  - [Science communication via social media](#science-communication-via-social-media)
   - [Fun](#fun)
   - [Related awesome lists](#related-awesome-lists)
   - [License](#license)
@@ -30,7 +31,16 @@ Feel free to **contribute** / **star** / **fork** / **pull request** . Any **rec
 
 ## Scope
 
-TODO
+A curated list of tools, applications, and resources that help scientists and researchers communicate their work — from writing and presenting to managing references and creating figures.
+
+## AI writing assistants
+
+- ![Commercial Software][Money Icon] [Consensus](https://consensus.app) - AI-powered academic search engine that finds and synthesizes answers from scientific papers
+- ![Commercial Software][Money Icon] [Elicit](https://elicit.com) - AI research assistant that helps find, summarize, and extract data from papers
+- ![Commercial Software][Money Icon] [Grammarly](https://www.grammarly.com) - AI-powered writing assistant for grammar, clarity, and tone
+- ![Commercial Software][Money Icon] [Paperpal](https://paperpal.com) - AI academic writing toolkit with language, grammar, and consistency checks for manuscripts
+- ![Commercial Software][Money Icon] [SciSpace](https://typeset.io) - AI tool for reading, understanding, and writing research papers
+- ![Commercial Software][Money Icon] [Writefull](https://www.writefull.com) - AI-powered language feedback tool trained on published academic texts
 
 ## Tools for creating slides
 
@@ -51,14 +61,10 @@ TODO
   - ![Open-Source Software][OSS Icon] [OnlyOffice Presentation Editor](https://www.onlyoffice.com/presentation-editor.aspx) [![GitHub stars](https://img.shields.io/github/stars/ONLYOFFICE/DocumentServer.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ONLYOFFICE/DocumentServer) - Open, create and edit stunning PowerPoint presentations, online version
   - ![Commercial Software][Money Icon] [Prezi Present](https://prezi.com/de/) - Create moving, zooming presentations that grab attention and keep it
 - HTML/CSS-based:
-  - ![Open-Source Software][OSS Icon] [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) [![GitHub stars](https://img.shields.io/github/stars/bespokejs/bespoke.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bespokejs/bespoke) - Presentation Micro-Framework
-  - ![Open-Source Software][OSS Icon] [deck.js](http://imakewebthings.com/deck.js/) [![GitHub stars](https://img.shields.io/github/stars/imakewebthings/deck.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/imakewebthings/deck.js) - Modern HTML Presentations
   - ![Open-Source Software][OSS Icon] [DeckTape](https://github.com/astefanutti/decktape) [![GitHub stars](https://img.shields.io/github/stars/astefanutti/decktape.svg?style=social&label=Star&maxAge=2592000)](https://github.com/astefanutti/decktape) - High-quality PDF exporter for HTML presentation frameworks
   - ![Open-Source Software][OSS Icon] [impress.js](https://impress.js.org) [![GitHub stars](https://img.shields.io/github/stars/impress/impress.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/impress/impress.js) - Presentation framework inspired by the idea behind prezi.com
-  - ![Open-Source Software][OSS Icon] [inspire.js](https://github.com/LeaVerou/inspire.js) [![GitHub stars](https://img.shields.io/github/stars/LeaVerou/inspire.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/LeaVerou/inspire.js) - Lean, hackable, extensible slide deck framework
   - ![Open-Source Software][OSS Icon] [remark](https://github.com/gnab/remark) [![GitHub stars](https://img.shields.io/github/stars/gnab/remark.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool
   - ![Open-Source Software][OSS Icon] [reveal.js](https://revealjs.com) [![GitHub stars](https://img.shields.io/github/stars/hakimel/reveal.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hakimel/reveal.js) - An open source HTML presentation framework
-  - ![Open-Source Software][OSS Icon] [shower](https://github.com/shower/shower) [![GitHub stars](https://img.shields.io/github/stars/shower/shower.svg?style=social&label=Star&maxAge=2592000)](https://github.com/shower/shower) - Another HTML presentation engine
   - ![Open-Source Software][OSS Icon] [Slidev](https://sli.dev) [![GitHub stars](https://img.shields.io/github/stars/slidevjs/slidev.svg?style=social&label=Star&maxAge=2592000)](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
   - ![Open-Source Software][OSS Icon] [Spectacle](https://formidable.com/open-source/spectacle/) [![GitHub stars](https://img.shields.io/github/stars/FormidableLabs/spectacle.svg?style=social&label=Star&maxAge=2592000)](https://github.com/FormidableLabs/spectacle) - A ReactJS based Presentation Library
 
@@ -76,7 +82,7 @@ TODO
   - ![Open-Source Software][OSS Icon] [Texmaker](https://www.xm1math.net/texmaker/) - A free, modern and cross-platform LaTeX editor
   - ![Open-Source Software][OSS Icon] [TeXstudio](https://texstudio.org) [![GitHub stars](https://img.shields.io/github/stars/texstudio-org/texstudio.svg?style=social&label=Star&maxAge=2592000)](https://github.com/texstudio-org/texstudio) - An integrated writing environment for creating LaTeX documents
   - ![Open-Source Software][OSS Icon] [Overleaf](https://www.overleaf.com) [![GitHub stars](https://img.shields.io/github/stars/overleaf/overleaf.svg?style=social&label=Star&maxAge=2592000)](https://github.com/overleaf/overleaf) - The easy to use, online, collaborative LaTeX editor
-
+- ![Open-Source Software][OSS Icon] [Typst](https://typst.app) [![GitHub stars](https://img.shields.io/github/stars/typst/typst.svg?style=social&label=Star&maxAge=2592000)](https://github.com/typst/typst) - A modern markup-based typesetting system designed as an alternative to LaTeX
 
 ## Tools for managing your bibliography
 
@@ -123,74 +129,112 @@ However, these seem to be the most used ones:
 - Powerful plotting libraries:
   - Python:
     - ![Open-Source Software][OSS Icon] [Altair](https://altair-viz.github.io) [![GitHub stars](https://img.shields.io/github/stars/altair-viz/altair.svg?style=social&label=Star&maxAge=2592000)](https://github.com/altair-viz/altair) - A declarative statistical visualization library for Python, based on Vega and Vega-Lite
-    - ![Open-Source Software][OSS Icon] [ggplot2](https://ggplot2.tidyverse.org) [![GitHub stars](https://img.shields.io/github/stars/tidyverse/ggplot2.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tidyverse/ggplot2) - A system for declaratively creating graphics, based on The Grammar of Graphics
+    - ![Open-Source Software][OSS Icon] [Bokeh](https://bokeh.org) [![GitHub stars](https://img.shields.io/github/stars/bokeh/bokeh.svg?style=social&label=Star&maxAge=2592000)](https://github.com/bokeh/bokeh) - Interactive visualization library for modern web browsers
     - ![Open-Source Software][OSS Icon] [Matplotlib](https://matplotlib.org) [![GitHub stars](https://img.shields.io/github/stars/matplotlib/matplotlib.svg?style=social&label=Star&maxAge=2592000)](https://github.com/matplotlib/matplotlib) - A comprehensive library for creating static, animated, and interactive visualizations
     - ![Open-Source Software][OSS Icon] [Plotly](https://plotly.com/python/) [![GitHub stars](https://img.shields.io/github/stars/plotly/plotly.py.svg?style=social&label=Star&maxAge=2592000)](https://github.com/plotly/plotly.py) - A graphing library to create interactive, publication-quality graphs
     - ![Open-Source Software][OSS Icon] [seaborn](https://seaborn.pydata.org) [![GitHub stars](https://img.shields.io/github/stars/mwaskom/seaborn.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mwaskom/seaborn) - Python data visualization library based on matplotlib
+  - R:
+    - ![Open-Source Software][OSS Icon] [ggplot2](https://ggplot2.tidyverse.org) [![GitHub stars](https://img.shields.io/github/stars/tidyverse/ggplot2.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tidyverse/ggplot2) - A system for declaratively creating graphics, based on The Grammar of Graphics
   - Julia:
     - ![Open-Source Software][OSS Icon] [Plots](https://docs.juliaplots.org/) [![GitHub stars](https://img.shields.io/github/stars/JuliaPlots/Plots.jl.svg?style=social&label=Star&maxAge=2592000)](https://github.com/JuliaPlots/Plots.jl) - Powerful convenience for Julia visualizations and data analysis
     - ![Open-Source Software][OSS Icon] [Gadfly](https://github.com/GiovineItalia/Gadfly.jl) [![GitHub stars](https://img.shields.io/github/stars/GiovineItalia/Gadfly.jl.svg?style=social&label=Star&maxAge=2592000)](https://github.com/GiovineItalia/Gadfly.jl) - A plotting and data visualization system written in Julia
+  - JavaScript:
+    - ![Open-Source Software][OSS Icon] [D3.js](https://d3js.org) [![GitHub stars](https://img.shields.io/github/stars/d3/d3.svg?style=social&label=Star&maxAge=2592000)](https://github.com/d3/d3) - A JavaScript library for producing dynamic, interactive data visualizations in web browsers
+    - ![Open-Source Software][OSS Icon] [Observable](https://observablehq.com) - A platform for collaborative data visualization using JavaScript notebooks
   - ![Commercial Software][Money Icon] [Matlab plot functions](https://www.mathworks.com/help/matlab/creating_plots/types-of-matlab-plots.html) - Overview about Matlab functions to generate plots
 
+## Tools for creating posters
+
+- ![Commercial Software][Money Icon] [Adobe InDesign](https://www.adobe.com/products/indesign.html) - Professional page layout and design software
+- [#BetterPoster](https://osf.io/ef53g/) - A new approach to academic poster design emphasizing a single key finding
+- ![Commercial Software][Money Icon] [Canva](https://www.canva.com) - Online design platform with research poster templates
+- ![Open-Source Software][OSS Icon] [Inkscape](https://inkscape.org) [![GitHub stars](https://img.shields.io/github/stars/inkscape/inkscape.svg?style=social&label=Star&maxAge=2592000)](https://github.com/inkscape/inkscape) - Professional vector graphics editor, commonly used for scientific posters
+- ![Open-Source Software][OSS Icon] [LaTeX poster packages](https://www.overleaf.com/gallery/tagged/poster) - baposter, beamerposter, tikzposter and other LaTeX classes for academic posters
+- ![Commercial Software][Money Icon] [Microsoft PowerPoint](http://office.microsoft.com/PowerPoint) - Widely used for creating academic posters with large-format slides
+
+## Tools for creating videos and animations
+
+- ![Open-Source Software][OSS Icon] [Blender](https://www.blender.org) [![GitHub stars](https://img.shields.io/github/stars/blender/blender.svg?style=social&label=Star&maxAge=2592000)](https://github.com/blender/blender) - Free and open-source 3D creation suite for animations, visual effects, and scientific visualization
+- ![Open-Source Software][OSS Icon] [Manim](https://www.manim.community) [![GitHub stars](https://img.shields.io/github/stars/ManimCommunity/manim.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ManimCommunity/manim) - Animation engine for explanatory math and science videos (used by 3Blue1Brown)
+- ![Open-Source Software][OSS Icon] [OBS Studio](https://obsproject.com) [![GitHub stars](https://img.shields.io/github/stars/obsproject/obs-studio.svg?style=social&label=Star&maxAge=2592000)](https://github.com/obsproject/obs-studio) - Free and open-source software for video recording and live streaming
+- ![Commercial Software][Money Icon] [Descript](https://www.descript.com) - All-in-one video and audio editor with transcription-based editing
+- ![Open-Source Software][OSS Icon] [Kdenlive](https://kdenlive.org) [![GitHub stars](https://img.shields.io/github/stars/KDE/kdenlive.svg?style=social&label=Star&maxAge=2592000)](https://github.com/KDE/kdenlive) - Free and open-source video editor
+- ![Open-Source Software][OSS Icon] [OpenShot](https://www.openshot.org) [![GitHub stars](https://img.shields.io/github/stars/OpenShot/openshot-qt.svg?style=social&label=Star&maxAge=2592000)](https://github.com/OpenShot/openshot-qt) - Award-winning free and open-source video editor
 
 ## Tools for taking notes
 
 - ![Commercial Software][Money Icon] [Bear](https://bear.app) - A beautiful, flexible writing app for crafting notes and prose for iPhone, iPad, and Mac
-- ![Open-Source Software][OSS Icon] [Boost Note](https://boostnote.io/) [![GitHub stars](https://img.shields.io/github/stars/BoostIO/BoostNote-App.svg?style=social&label=Star&maxAge=2592000)](https://github.com/BoostIO/BoostNote-App) - A collaborative real-time markdown note app for developer teams
 - ![Open-Source Software][OSS Icon] [CherryTree](https://www.giuspen.com/cherrytree/) [![GitHub stars](https://img.shields.io/github/stars/giuspen/cherrytree.svg?style=social&label=Star&maxAge=2592000)](https://github.com/giuspen/cherrytree) - A hierarchical note taking application
 - [Evernote](https://evernote.com) - App designed for note taking, organizing, task management, and archiving
 - [Google Keep](https://www.google.com/keep/) - A note-taking service by Google
 - ![Open-Source Software][OSS Icon] [Joplin](https://joplinapp.org) [![GitHub stars](https://img.shields.io/github/stars/laurent22/joplin.svg?style=social&label=Star&maxAge=2592000)](https://github.com/laurent22/joplin) - An open source note-taking app
-- ![Open-Source Software][OSS Icon] [Laverna](https://laverna.cc) [![GitHub stars](https://img.shields.io/github/stars/Laverna/laverna.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Laverna/laverna) - A JavaScript note taking application with Markdown editor and encryption support
-- ![Open-Source Software][OSS Icon] [Notable](https://notable.app) [![GitHub stars](https://img.shields.io/github/stars/notable/notable.svg?style=social&label=Star&maxAge=2592000)](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck
+- ![Open-Source Software][OSS Icon] [Logseq](https://logseq.com) [![GitHub stars](https://img.shields.io/github/stars/logseq/logseq.svg?style=social&label=Star&maxAge=2592000)](https://github.com/logseq/logseq) - Open-source knowledge management and collaboration platform
 - ![Open-Source Software][OSS Icon] [Mark Text](https://marktext.app) [![GitHub stars](https://img.shields.io/github/stars/marktext/marktext.svg?style=social&label=Star&maxAge=2592000)](https://github.com/marktext/marktext) - Next generation markdown editor
 - ![Commercial Software][Money Icon] [Microsoft OneNote](https://onenote.com/) - A note-taking program for free-form information gathering and multi-user collaboration
+- ![Commercial Software][Money Icon] [Notion](https://www.notion.so) - All-in-one workspace for notes, docs, project management, and collaboration
+- ![Commercial Software][Money Icon] [Obsidian](https://obsidian.md) - A powerful knowledge base that works on local Markdown files with bidirectional linking
 - ![Open-Source Software][OSS Icon] [Simplenote](https://simplenote.com) [![GitHub stars](https://img.shields.io/github/stars/Automattic/simplenote-electron.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Automattic/simplenote-electron) - All your notes, synced on all your devices
 - ![Open-Source Software][OSS Icon] [Standard Notes](https://standardnotes.com/) [![GitHub stars](https://img.shields.io/github/stars/standardnotes/web.svg?style=social&label=Star&maxAge=2592000)](https://github.com/standardnotes/web) - A free, open-source, and completely encrypted notes app
 - ![Open-Source Software][OSS Icon] [TiddlyWiki](https://tiddlywiki.com/) [![GitHub stars](https://img.shields.io/github/stars/Jermolene/TiddlyWiki5.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser
 - ![Open-Source Software][OSS Icon] [Trilium Notes](https://github.com/zadam/trilium) [![GitHub stars](https://img.shields.io/github/stars/zadam/trilium.svg?style=social&label=Star&maxAge=2592000)](https://github.com/zadam/trilium) - A hierarchical note taking application with focus on building large personal knowledge bases
 - [Typora](https://typora.io) - A truly minimal markdown editor
 - ![Open-Source Software][OSS Icon] [Zim Wiki](https://zim-wiki.org) [![GitHub stars](https://img.shields.io/github/stars/zim-desktop-wiki/zim-desktop-wiki.svg?style=social&label=Star&maxAge=2592000)](https://github.com/zim-desktop-wiki/zim-desktop-wiki) - A graphical text editor used to maintain a collection of wiki pages
-- [Zoho Notebook](https://www.zoho.com/notebook/) - The most beautiful note taking app across devices
+
+## Tools for podcasting and audio
+
+- ![Open-Source Software][OSS Icon] [Audacity](https://www.audacityteam.org) [![GitHub stars](https://img.shields.io/github/stars/audacity/audacity.svg?style=social&label=Star&maxAge=2592000)](https://github.com/audacity/audacity) - Free, open-source, cross-platform audio recording and editing software
+- ![Commercial Software][Money Icon] [Descript](https://www.descript.com) - Podcast and video editor with AI transcription and text-based audio editing
+- ![Commercial Software][Money Icon] [Riverside](https://riverside.fm) - High-quality remote podcast and video recording platform
+- ![Commercial Software][Money Icon] [Zencastr](https://zencastr.com) - Browser-based podcast recording with separate audio tracks
 
 ## Other useful tools
 
-- Desktop applications:
-  - ![Open-Source Software][OSS Icon] [LibreOffice Math](https://www.libreoffice.org/discover/Math) [![GitHub stars](https://img.shields.io/github/stars/LibreOffice/core.svg?style=social&label=Star&maxAge=2592000)](https://github.com/LibreOffice/core) - An application designed for creating and editing mathematical formulae
-  - ![Open-Source Software][OSS Icon] [pandoc](https://pandoc.org) [![GitHub stars](https://img.shields.io/github/stars/jgm/pandoc.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jgm/pandoc) - A universal document converter
-  - ![Open-Source Software][OSS Icon] [sioyek](https://github.com/ahrm/sioyek) [![GitHub stars](https://img.shields.io/github/stars/ahrm/sioyek.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ahrm/sioyek) - A PDF viewer designed for reading research papers and technical books.
-
-
-## Journals
-
+- ![Open-Source Software][OSS Icon] [LibreOffice Math](https://www.libreoffice.org/discover/Math) [![GitHub stars](https://img.shields.io/github/stars/LibreOffice/core.svg?style=social&label=Star&maxAge=2592000)](https://github.com/LibreOffice/core) - An application designed for creating and editing mathematical formulae
+- ![Open-Source Software][OSS Icon] [pandoc](https://pandoc.org) [![GitHub stars](https://img.shields.io/github/stars/jgm/pandoc.svg?style=social&label=Star&maxAge=2592000)](https://github.com/jgm/pandoc) - A universal document converter
+- ![Open-Source Software][OSS Icon] [sioyek](https://github.com/ahrm/sioyek) [![GitHub stars](https://img.shields.io/github/stars/ahrm/sioyek.svg?style=social&label=Star&maxAge=2592000)](https://github.com/ahrm/sioyek) - A PDF viewer designed for reading research papers and technical books
+- [Orcid](https://orcid.org) - Get your own open researcher and contributor ID (ORCID)
+- [DOI](https://www.doi.org) - The Digital Object Identifier system for persistent identification of content
+- [CRediT](https://credit.niso.org) - Contributor Roles Taxonomy for identifying specific contributions to published scholarly output
 - [Metrics on Google Scholar](https://scholar.google.com/citations?view_op=metrics_intro&hl=en) - Top cited publications over the last five years
 
 ## Find conferences to attend
 
+- [CORE Conference Rankings](https://www.core.edu.au/conference-portal) - Computing Research and Education conference ranking portal
+- [PaperDigest](https://www.paperdigest.org/conference/) - Conference paper digest and call for papers alerts
 - [WikiCFP](http://www.wikicfp.com/cfp/) - A semantic wiki for Calls For Papers in science and technology fields
 
-## Publication databases
+## Publication databases and preprint servers
 
 An exhaustive list can be found here:
 
 - [Wikipedia - List of academic databases and search engines](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines)
 
-However, I find most useful:
+Databases and search engines:
 
 - [arXiv](https://arxiv.org) - A free distribution service and an open-access archive
+- [bioRxiv](https://www.biorxiv.org) - The preprint server for biology
 - [Connected Papers](https://www.connectedpapers.com) - Explore connected papers in a visual graph
 - [Google Scholar](https://scholar.google.com) - The biggest academic database & search engine
 - [Papers with code](https://paperswithcode.com) - Free and open resource with machine learning papers, code, datasets, methods and evaluation tables
 - [ResearchGate](https://www.researchgate.net) - Commercial social networking site for scientists and researchers
 - [Semantic Scholar](https://www.semanticscholar.org) - Mostly computer science and biomedical publications
 
-## Other
+Publishing and archiving platforms:
 
-- [Orcid](https://orcid.org) - Get you own open researcher and contributor ID (ORCID)
+- ![Open-Source Software][OSS Icon] [Figshare](https://figshare.com) - Online open-access repository for research outputs including figures, datasets, and more
+- ![Open-Source Software][OSS Icon] [Open Science Framework (OSF)](https://osf.io) [![GitHub stars](https://img.shields.io/github/stars/CenterForOpenScience/osf.io.svg?style=social&label=Star&maxAge=2592000)](https://github.com/CenterForOpenScience/osf.io) - Free, open platform for research collaboration, preregistration, and preprints
+- [Zenodo](https://zenodo.org) - General-purpose open repository by CERN for research data and publications with DOI minting
+
+## Science communication via social media
+
+- [Buffer](https://buffer.com) - Social media scheduling and analytics platform
+- ![Open-Source Software][OSS Icon] [Mastodon](https://joinmastodon.org) [![GitHub stars](https://img.shields.io/github/stars/mastodon/mastodon.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mastodon/mastodon) - Decentralized social network popular in academic communities (see scholar.social, fediscience.org)
+- [Bluesky](https://bsky.app) - Decentralized social network with a growing academic community
+- [The Conversation](https://theconversation.com) - Platform for academics to write articles for general audiences
 
 ## Fun
 
-- [phdcomics](http://phdcomics.com) - "Piled Higher and Deeper" (PhD) is the comic strip about life (or the lack  hereof) in academia
+- [phdcomics](http://phdcomics.com) - "Piled Higher and Deeper" (PhD) is the comic strip about life (or the lack thereof) in academia
 - [xkcd](https://xkcd.com) - A webcomic of romance, sarcasm, math, and language
 
 ## Related awesome lists
