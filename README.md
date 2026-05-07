@@ -10,10 +10,10 @@ Feel free to **contribute** / **star** / **fork** / **pull request** . Any **rec
 
 - [Table of Contents](#table-of-contents)
   - [Scope](#scope)
-  - [AI writing assistants](#ai-writing-assistants)
   - [Tools for creating slides](#tools-for-creating-slides)
   - [Tools for presenting slides](#tools-for-presenting-slides)
   - [Tools for writing papers](#tools-for-writing-papers)
+  - [AI writing assistants](#ai-writing-assistants)
   - [Tools for managing your bibliography](#tools-for-managing-your-bibliography)
   - [Tools for creating figures](#tools-for-creating-figures)
   - [Tools for creating posters](#tools-for-creating-posters)
@@ -32,15 +32,6 @@ Feel free to **contribute** / **star** / **fork** / **pull request** . Any **rec
 ## Scope
 
 A curated list of tools, applications, and resources that help scientists and researchers communicate their work — from writing and presenting to managing references and creating figures.
-
-## AI writing assistants
-
-- ![Commercial Software][Money Icon] [Consensus](https://consensus.app) - AI-powered academic search engine that finds and synthesizes answers from scientific papers
-- ![Commercial Software][Money Icon] [Elicit](https://elicit.com) - AI research assistant that helps find, summarize, and extract data from papers
-- ![Commercial Software][Money Icon] [Grammarly](https://www.grammarly.com) - AI-powered writing assistant for grammar, clarity, and tone
-- ![Commercial Software][Money Icon] [Paperpal](https://paperpal.com) - AI academic writing toolkit with language, grammar, and consistency checks for manuscripts
-- ![Commercial Software][Money Icon] [SciSpace](https://typeset.io) - AI tool for reading, understanding, and writing research papers
-- ![Commercial Software][Money Icon] [Writefull](https://www.writefull.com) - AI-powered language feedback tool trained on published academic texts
 
 ## Tools for creating slides
 
@@ -82,7 +73,17 @@ A curated list of tools, applications, and resources that help scientists and re
   - ![Open-Source Software][OSS Icon] [Texmaker](https://www.xm1math.net/texmaker/) - A free, modern and cross-platform LaTeX editor
   - ![Open-Source Software][OSS Icon] [TeXstudio](https://texstudio.org) [![GitHub stars](https://img.shields.io/github/stars/texstudio-org/texstudio.svg?style=social&label=Star&maxAge=2592000)](https://github.com/texstudio-org/texstudio) - An integrated writing environment for creating LaTeX documents
   - ![Open-Source Software][OSS Icon] [Overleaf](https://www.overleaf.com) [![GitHub stars](https://img.shields.io/github/stars/overleaf/overleaf.svg?style=social&label=Star&maxAge=2592000)](https://github.com/overleaf/overleaf) - The easy to use, online, collaborative LaTeX editor
+  - [Prism](https://openai.com/prism/) - Free, AI-native LaTeX editor and scientific workspace by OpenAI with built-in ChatGPT, proofreading, citations, and unlimited collaboration
 - ![Open-Source Software][OSS Icon] [Typst](https://typst.app) [![GitHub stars](https://img.shields.io/github/stars/typst/typst.svg?style=social&label=Star&maxAge=2592000)](https://github.com/typst/typst) - A modern markup-based typesetting system designed as an alternative to LaTeX
+
+## AI writing assistants
+
+- ![Commercial Software][Money Icon] [Consensus](https://consensus.app) - AI-powered academic search engine that finds and synthesizes answers from scientific papers
+- ![Commercial Software][Money Icon] [Elicit](https://elicit.com) - AI research assistant that helps find, summarize, and extract data from papers
+- ![Commercial Software][Money Icon] [Grammarly](https://www.grammarly.com) - AI-powered writing assistant for grammar, clarity, and tone
+- ![Commercial Software][Money Icon] [Paperpal](https://paperpal.com) - AI academic writing toolkit with language, grammar, and consistency checks for manuscripts
+- ![Commercial Software][Money Icon] [SciSpace](https://typeset.io) - AI tool for reading, understanding, and writing research papers
+- ![Commercial Software][Money Icon] [Writefull](https://www.writefull.com) - AI-powered language feedback tool trained on published academic texts
 
 ## Tools for managing your bibliography
 
