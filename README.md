@@ -101,6 +101,7 @@ TODO
 
 ## Tools for writing papers
 
+- ![Open-Source Software][OSS Icon] [CAJAL](https://github.com/Agnuxo1/CAJAL) [![GitHub stars](https://img.shields.io/github/stars/Agnuxo1/CAJAL.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Agnuxo1/CAJAL) - A fine-tuned open-source LLM for generating publication-ready scientific papers locally with verified arXiv citations
 - ![Open-Source Software][OSS Icon] [LaTeX](https://www.latex-project.org) - The popular document preparation system
   - ![Open-Source Software][OSS Icon] [Kile](https://kile.sourceforge.io) [![GitHub stars](https://img.shields.io/github/stars/KDE/kile.svg?style=social&label=Star&maxAge=2592000)](https://github.com/KDE/kile) - An Integrated LaTeX Editing Environment
   - ![Open-Source Software][OSS Icon] [Texmaker](https://www.xm1math.net/texmaker/) - A free, modern and cross-platform LaTeX editor
