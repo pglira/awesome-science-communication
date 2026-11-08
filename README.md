@@ -78,6 +78,7 @@ A curated list of tools, applications, and resources that help scientists and re
 
 ## AI writing assistants
 
+- ![Open-Source Software][OSS Icon] [ScholarCopilot](https://github.com/TIGER-AI-Lab/ScholarCopilot) - Open-source academic writing assistant with context-aware completion and real-time citation suggestions ([COLM 2025](https://arxiv.org/abs/2504.00824))
 - ![Commercial Software][Money Icon] [Consensus](https://consensus.app) - AI-powered academic search engine that finds and synthesizes answers from scientific papers
 - ![Commercial Software][Money Icon] [Elicit](https://elicit.com) - AI research assistant that helps find, summarize, and extract data from papers
 - ![Commercial Software][Money Icon] [Grammarly](https://www.grammarly.com) - AI-powered writing assistant for grammar, clarity, and tone
