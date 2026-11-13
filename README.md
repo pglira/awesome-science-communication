@@ -168,6 +168,7 @@ However, these seem to be the most used ones:
 - ![Commercial Software][Money Icon] [Bear](https://bear.app) - A beautiful, flexible writing app for crafting notes and prose for iPhone, iPad, and Mac
 - ![Open-Source Software][OSS Icon] [CherryTree](https://www.giuspen.com/cherrytree/) [![GitHub stars](https://img.shields.io/github/stars/giuspen/cherrytree.svg?style=social&label=Star&maxAge=2592000)](https://github.com/giuspen/cherrytree) - A hierarchical note taking application
 - [Evernote](https://evernote.com) - App designed for note taking, organizing, task management, and archiving
+- [Glasp](https://glasp.co/) - Web and PDF highlighter with YouTube transcripts and AI summaries, with export to Markdown, Notion, and Obsidian
 - [Google Keep](https://www.google.com/keep/) - A note-taking service by Google
 - ![Open-Source Software][OSS Icon] [Joplin](https://joplinapp.org) [![GitHub stars](https://img.shields.io/github/stars/laurent22/joplin.svg?style=social&label=Star&maxAge=2592000)](https://github.com/laurent22/joplin) - An open source note-taking app
 - ![Open-Source Software][OSS Icon] [Logseq](https://logseq.com) [![GitHub stars](https://img.shields.io/github/stars/logseq/logseq.svg?style=social&label=Star&maxAge=2592000)](https://github.com/logseq/logseq) - Open-source knowledge management and collaboration platform
