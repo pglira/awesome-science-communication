@@ -217,6 +217,7 @@ Databases and search engines:
 - [bioRxiv](https://www.biorxiv.org) - The preprint server for biology
 - [Connected Papers](https://www.connectedpapers.com) - Explore connected papers in a visual graph
 - [Google Scholar](https://scholar.google.com) - The biggest academic database & search engine
+- [JournalCompass](https://journalcompass.com/) - Free bilingual search across 43,499 SCI/SSCI journals to find the right venue for your manuscript, with CAS quartile, impact factor, review time, and APC.
 - [Papers with code](https://paperswithcode.com) - Free and open resource with machine learning papers, code, datasets, methods and evaluation tables
 - [ResearchGate](https://www.researchgate.net) - Commercial social networking site for scientists and researchers
 - [Semantic Scholar](https://www.semanticscholar.org) - Mostly computer science and biomedical publications
